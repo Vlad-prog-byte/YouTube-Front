@@ -1,0 +1,47 @@
+.mytubeHeader{
+    grid-area: h;
+    background-color: #00BFFF;
+    /*opacity: .8;*/
+}
+
+.logo{
+    display: inline-block;
+}
+
+.search{
+    display: flex;
+    margin-right: 10%;
+}
+
+.myChannel{
+    display: inline-block;
+}
+
+.searchPicture{
+    width: 40px;
+    height: 40px;
+}
+
+.searchArea{
+    display: inline-block;
+    width: 300px;
+    height: 40px;
+    resize: none;
+}
+
+.logoPicture{
+    display: inline-block;
+    height : 20%;
+    width : 20%;
+    margin-right : 20%;
+}
+
+.authorization{
+    display: inline-block;
+}
+
+.authorization .picture{
+    display: inline;
+    height: 20%;
+    width: 20%;
+}
